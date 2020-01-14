@@ -1,0 +1,76 @@
+cd Downloads\
+cd C:\Users\eva_0\Documents\bitfreezenet
+pgp -d key.gpg 
+cd C:\Users\eva_0\repos
+mkdir android
+cd android\
+git init
+mkdir fundamental-course
+cd mkdir fundamental-course\
+cd fundamental-course\
+cd bit bitfreeze\
+cd bitfreeze\
+ls venv\
+ls venv\Scripts\
+venv\Scripts\activate.bat 
+python
+pip install --upgrade bravado
+touch demo.py
+python demo.py 
+touch test.py
+pip install bitmex
+python test.py 
+python signatureCalc.py 
+python test.py
+python test.py > salida.txt
+code salida.txt 
+java - version
+java -version
+cd Practicas-Scala\
+git status
+scala
+sbt
+pwd
+cd C:\Users\eva_0\repos\Practicas-Scala
+cd ..
+cd /repos
+mkdir python
+cd python\
+mkdir proy1
+cd proy1`
+adb
+adb shell
+git clone https://chemasmasI@bitbucket.org/iterandomx/gigante-android.git
+adb kill-server
+adb connect 192.168.1.64:6666
+eit
+adb devices
+scrcpy
+cd gigante-android\
+git add .
+git commit -m"Nuevo directorio"
+git push
+npm
+exit
+npm -v
+npm install -g ionic
+repos
+cd /
+cd repos
+cd C:\Users\eva_0\repos\
+mkdir ionic
+ionic start myApp
+cd myApp\
+ionic serve
+ionic capacitor add android
+npx cap add android
+ls
+ionic capacitor copy android
+npx cap open android
+history}
+history
+history> comandos.txt
+history > comandos.txt
+bash::bash
+cat %CMDER_ROOT%\config\.history
+cat %CMDER_ROOT%\config\.history > comandos.txt 
